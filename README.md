@@ -1,6 +1,6 @@
-# [Gulp](http://gulpjs.com) Config Samples
+# Gulp Config Samples
 
-Sample gulp config approaches I've worked with in the past.
+Sample [Gulp](http://gulpjs.com) config approaches I've worked with in the past.
 
 ## gulpfile.1.js
 
